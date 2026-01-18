@@ -6,7 +6,7 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 > [!WARNING]
 > This repository's purpose is to provide a practical environment for learning and mastering GitHub contributions, guiding users from beginner to expert by demonstrating effective use of issues, pull requests (PRs), co-authoring, branching, and project management, ensuring smooth collaboration and code quality. It serves as a hands-on training ground to improve workflows like issue tracking, PR reviews, and integrating diverse contributors, from simple fixes to complex feature development.
 
-## Always open for Contrubution learning
+## Always open for Contribution learning Purpose
 
 1. Issue Management: Creating, assigning, and tracking tasks (issues) to organize work, using labels, milestones, and project boards for clarity.
 2. Branching Strategy: Developing and merging features using different branches (like feature branches) and understanding pull requests as a way to integrate code.
