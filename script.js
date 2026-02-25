@@ -1,2 +1,5 @@
 
-window.alert("Helo!")
+function Run(){
+    window.alert("Helo!")
+}
+Run();
